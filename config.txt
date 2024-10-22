@@ -1,0 +1,6 @@
+text_file=input.txt
+target_language=en
+output=screen
+max_chars=600
+max_words=100
+max_sentences=10
